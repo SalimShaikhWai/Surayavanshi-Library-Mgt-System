@@ -1,0 +1,2 @@
+CustomerId,CustomerName,CustomerEmail, CustomerPhone ,CustomerAddress, _isSelected
+1,salim,ad@fgmail,242324,susare,True

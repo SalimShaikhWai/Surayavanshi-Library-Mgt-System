@@ -1,0 +1,4 @@
+BookISBN,BookTitle,PublisherID, AuthorId ,IssueDate, IsDeleted,,
+1de, UPSC,1,1, True,FALSE,,
+,,,,,,,
+,,,,,,,s
